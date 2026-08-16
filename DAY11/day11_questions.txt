@@ -1,0 +1,6 @@
+1	Define a Point struct with int x, y. Create a variable and print it using a pointer.
+2	Define a Student struct with name, roll, marks. Print it using a pointer.
+3	Write a function that takes a Point* and modifies its coordinates.
+4	Create an array of Student structs and print all using a pointer.
+5 (Spiral)	Own strlen (Day 10).
+6 (Spiral)	Own strcpy (Day 10).

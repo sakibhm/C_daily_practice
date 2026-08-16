@@ -1,0 +1,6 @@
+1	Write a function that takes const void* and a type flag, and prints the value safely.
+2	Use pointer-to-pointer (**) to modify a string inside a function.
+3	Write a program that swaps two integers, swaps two strings, and uses const correctly.
+4	Write a program that uses all: void*, const, **, NULL checking, and dereferencing.
+5 (Spiral)	const int* vs int* const (Day 6).
+6 (Spiral)	Generic swap using void* (Day 5).

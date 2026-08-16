@@ -1,0 +1,6 @@
+1	Declare const int *ptr and try to modify the value it points to. Observe the error.
+2	Declare int *const ptr and try to reassign it to another variable. Observe the error.
+3	Declare const int *const ptr. Try to modify both value and address. Observe the errors.
+4	Write a function that takes const char * and prints it (read-only access).
+5 (Spiral)	Generic swap using void* (Day 5).
+6 (Spiral)	Print any data type using void* and type flag (Day 5).

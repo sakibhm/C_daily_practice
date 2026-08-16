@@ -1,0 +1,4 @@
+1	Declare an integer variable a = 10. Declare a pointer ptr that points to a. Print the address of a and the value stored in ptr.
+2	Using the pointer ptr, print the value of a (dereferencing). Then change the value of a to 20 using ptr and print again.
+3	Write a function swap that takes two integer pointers and swaps the values they point to.
+4	Declare a pointer to a char and a pointer to a float. Print their sizes.

@@ -1,0 +1,6 @@
+1	Write a function that swaps two char* strings using pointer-to-pointer (char**).
+2	Dynamically allocate a 2D array of integers (3x3) using int**. Fill it with values and print it.
+3	Write a function that takes a char** and modifies it to point to a new string.
+4	Create a pointer to a pointer to an int. Use it to modify the original int value.
+5 (Spiral)	Check if a pointer is NULL before dereferencing (Day 3).
+6 (Spiral)	Array of NULL pointers (Day 3).

@@ -1,0 +1,6 @@
+1	Define Address (city, pin) inside Employee (name, id, address). Print via pointer.
+2	Define a struct with bitfields: uint32_t enable:1; uint32_t mode:2; uint32_t speed:2;.
+3	Write a function that packs values into a bitfield struct and prints them.
+4	Create an array of Employee structs and print all using a pointer to the array.
+5 (Spiral)	Point struct (Day 11).
+6 (Spiral)	Student struct (Day 11).

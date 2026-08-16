@@ -1,0 +1,6 @@
+1	Declare a pointer, set it to NULL. Write an if condition to check if it's NULL before dereferencing.
+2	Create an array of 3 integer pointers. Set them to NULL. Assign one of them to an integer and print its value.
+3	Write a function that takes an int* and returns 0 if the pointer is NULL, otherwise returns the value it points to.
+4	Declare a pointer, set it to NULL, then assign it to a variable later. Print safely.
+5 (Spiral)	Modify a variable via pointer (Day 2).
+6 (Spiral)	Print value of a using **pp (Day 2).

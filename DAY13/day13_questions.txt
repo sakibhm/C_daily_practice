@@ -1,0 +1,6 @@
+1	Define a struct with char, int, char. Print its size and explain padding.
+2	Use __attribute__((packed)) on the same struct and print its size.
+3	Use __attribute__((aligned(16))) on a struct and print its size.
+4	Create a struct with bitfields and check its size with and without packing.
+5 (Spiral)	Nested struct (Day 12).
+6 (Spiral)	Bitfields (Day 12).

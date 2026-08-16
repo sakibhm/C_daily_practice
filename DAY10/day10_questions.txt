@@ -1,0 +1,6 @@
+1	Write your own strlen function using pointer arithmetic (no []).
+2	Write your own strcpy function using pointers.
+3	Write your own strcat function using pointers.
+4	Reverse a string in-place using pointers.
+5 (Spiral)	Max element in array (Day 9).
+6 (Spiral)	Sum array elements (Day 9).

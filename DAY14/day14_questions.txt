@@ -1,0 +1,6 @@
+1	Write a function that parses a 32-bit packet (extract fields) using struct + bitfields.
+2	Write a function that encodes a 32-bit packet using struct + bitfields.
+3	Write a function that takes an array of Student structs and sorts them by marks (use pointer arithmetic).
+4	Write a program that uses void*, const, nested structs, and pointer arithmetic together.
+5 (Spiral)	Packed struct vs normal struct size (Day 13).
+6 (Spiral)	Nested structs (Day 12).

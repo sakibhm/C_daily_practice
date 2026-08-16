@@ -1,0 +1,6 @@
+1	Declare int a = 5, int *p = &a, and int **pp = &p. Print the value of a using p and pp.
+2	Write a function that takes an int* and increments the value by 10 using dereferencing.
+3	Declare int ***ppp. Assign it the address of pp. Print the value of a using ppp.
+4	Write a program that uses a pointer to modify a variable inside a while loop (e.g., countdown to 0).
+5 (Spiral)	Swap two integers using pointers (from Day 1).
+6 (Spiral)	Declare an int pointer, assign it to a variable, and print address & value (from Day 1).

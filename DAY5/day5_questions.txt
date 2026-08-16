@@ -1,0 +1,6 @@
+1	Write a generic swap function using void* and memcpy() that swaps two ints.
+2	Write a generic swap function that swaps two chars using void*.
+3	Write a function that takes a void* and a type flag ('i' for int, 'f' for float) and prints the value.
+4	Use void* to store an int and a float in an array and print them using casting.
+5 (Spiral)	Swap two strings using char** (Day 4).
+6 (Spiral)	Dynamically allocate a 2D array (Day 4).

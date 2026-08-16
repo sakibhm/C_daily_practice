@@ -1,0 +1,6 @@
+1	Create an array of 5 integers. Use a pointer to iterate through it using ptr++.
+2	Reverse an array using two pointers (one at start, one at end).
+3	Print the difference between two pointers pointing to different elements in an array.
+4	Use pointer arithmetic to access every 2nd element in an array.
+5 (Spiral)	Combine all from Week 1 (Day 7).
+6 (Spiral)	const pointer example (Day 6).
